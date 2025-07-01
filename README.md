@@ -12,9 +12,3 @@
 ![Результаты тестов](./img/gitlab_grivnyashkin_2_1.png)
 ![Результат сборки 1](./img/gitlab_grivnyashkin_2_2.png)
 ![Результат сборки 2](./img/gitlab_grivnyashkin_2_3.png)
-
----
-
-### Задание 3
-
-![Название скриншота](ссылка на скриншот)
